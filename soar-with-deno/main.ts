@@ -5,7 +5,7 @@ if (import.meta.main) {
         console.log(el.name);
       }
     })();
-    const hello = new Response("Hello, World!");
+    const hello = new Response("Hello, Stackie!");
     return hello;
   });
 }
